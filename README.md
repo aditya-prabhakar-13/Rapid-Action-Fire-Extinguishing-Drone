@@ -30,7 +30,7 @@ Fire emergencies require fast and intelligent response systems. This project com
 
 | Component        | Technology / Tools              |
 |------------------|----------------------------------|
-| **Simulation**   | PyBullet / Gazebo / Unity        |
+| **Simulation**   | PyBullet       |
 | **Control System** | ROS, PX4, MAVROS                 |
 | **Hardware**     | Custom quadcopter frame, Pixhawk, LiDAR, IR sensor, thermal camera |
 | **Fire Suppression** | CO₂ or dry chemical extinguisher module |
